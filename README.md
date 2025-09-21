@@ -60,7 +60,7 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 ---
 
 ### **Business Process Automation**
-#### <img src="https://raw.githubusercontent.com/van007/QR-Code-Generator/ec97176354243d2e10604ffbaaf94bad051f56df/assets/logo.png" width="24" height="24" style="vertical-align: -4px;"> QR Code Generator — Enterprise-Grade QR Solutions
+#### <img src="https://github.com/van007/QR-Code-Generator/blob/ec97176354243d2e10604ffbaaf94bad051f56df/assets/logo.png" width="24" height="24" style="vertical-align: -4px;"> QR Code Generator — Enterprise-Grade QR Solutions
 
 **Problem Solved**: Marketing and operations teams need quick, branded QR codes for campaigns  
 **Solution**: Professional QR generator with full customization and batch capabilities
