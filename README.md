@@ -114,9 +114,9 @@ Whether you need to:
 - Build custom AI applications
 - Modernize legacy systems
 
-### <img src="assets/readme-icons/envelope.svg" width="18" height="18" style="vertical-align: -3px;"> Quick Contact  
-**LinkedIn**: <a href="https://www.linkedin.com/in/varunnidhi" target="_blank" rel="noopener noreferrer">Varun Nidhi</a>  
-**GitHub**: <a href="https://github.com/van007" target="_blank" rel="noopener noreferrer">van007</a>  
+### <img src="assets/readme-icons/envelope.svg" width="18" height="18" style="vertical-align: -3px;"> Quick Contact
+**<img src="assets/readme-icons/linkedin.svg" width="16" height="16" style="vertical-align: -2px;"> LinkedIn**: <a href="https://www.linkedin.com/in/varunnidhi" target="_blank" rel="noopener noreferrer">Varun Nidhi</a>
+**<img src="assets/readme-icons/github.svg" width="16" height="16" style="vertical-align: -2px;"> GitHub**: <a href="https://github.com/van007" target="_blank" rel="noopener noreferrer">van007</a>  
 
 ---
 
