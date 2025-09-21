@@ -97,12 +97,8 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 
 ## <img src="assets/readme-icons/target.svg" width="20" height="20" style="vertical-align: -3px;"> Industries Served
 
-![Oil & Gas](https://img.shields.io/badge/Oil_%26_Gas-FF6B6B?style=for-the-badge&logo=fossil&logoColor=white)
-![Energy & Utilities](https://img.shields.io/badge/Energy_%26_Utilities-00D9FF?style=for-the-badge&logo=lightning&logoColor=white)
-![Manufacturing](https://img.shields.io/badge/Manufacturing-4ECDC4?style=for-the-badge&logo=industry&logoColor=white)
-![Healthcare](https://img.shields.io/badge/Healthcare-FF6B9D?style=for-the-badge&logo=health&logoColor=white)
-![Financial Services](https://img.shields.io/badge/Financial_Services-7209B7?style=for-the-badge&logo=bank&logoColor=white)
-![Retail & E-commerce](https://img.shields.io/badge/Retail_%26_E--commerce-F72585?style=for-the-badge&logo=shopping-cart&logoColor=white)
+<img src="assets/readme-icons/oilgas.svg" width="20" height="20" style="vertical-align: -3px;"> **Oil & Gas** | <img src="assets/readme-icons/energy.svg" width="20" height="20" style="vertical-align: -3px;"> **Energy & Utilities** | <img src="assets/readme-icons/manufacturing.svg" width="20" height="20" style="vertical-align: -3px;"> **Manufacturing**  
+<img src="assets/readme-icons/healthcare.svg" width="20" height="20" style="vertical-align: -3px;"> **Healthcare** | <img src="assets/readme-icons/financial.svg" width="20" height="20" style="vertical-align: -3px;"> **Financial Services** | <img src="assets/readme-icons/retail.svg" width="20" height="20" style="vertical-align: -3px;"> **Retail & E-commerce**  
 
 ---
 
