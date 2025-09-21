@@ -65,7 +65,7 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 **Problem Solved**: Marketing and operations teams need quick, branded QR codes for campaigns  
 **Solution**: Professional QR generator with full customization and batch capabilities
 
-<img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/QR-Code-Generator/" target="_blank" rel="noopener noreferrer">Access Tool</a>**
+<img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/QR-Code-Generator/" target="_blank" rel="noopener noreferrer">Access Tool</a>** | <a href="https://github.com/van007/QR-Code-Generator" target="_blank" rel="noopener noreferrer">Source Code</a>
 
 **Key Business Features:**  
 <img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> **9 Business Formats**: URLs, vCards, Wi-Fi credentials, payment links, etc.  
