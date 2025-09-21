@@ -72,7 +72,9 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 <img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> **Brand Customization**: Colors, logos, shapes matching corporate identity  
 <img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> **High-Volume Support**: Batch generation capabilities  
 <img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> **Multiple Export Formats**: PNG/SVG for print and digital use  
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> **Error Correction**: Industrial-grade reliability (L/M/Q/H levels)  
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> **Error Correction**: Industrial-grade reliability (L/M/Q/H levels)
+
+**Perfect For**: Marketing teams, event organizers, retail businesses, operations departments, customer support
 
 ---
 
