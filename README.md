@@ -19,8 +19,8 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 
 ## <img src="assets/readme-icons/rocket.svg" width="20" height="20" style="vertical-align: -3px;"> Featured Open Source Projects
 
-### **Enterprise Document Automation** 
-#### Prompt2PowerPoint — Transform Ideas into Professional Presentations
+### **Enterprise Document Automation**
+#### <img src="https://raw.githubusercontent.com/van007/Prompt2Powerpoint/543b8d271e387f5e77a322603eb088435ceaceca/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Prompt2PowerPoint — Transform Ideas into Professional Presentations
 
 **Problem Solved**: Teams waste 2-3 hours creating each presentation from scratch  
 **Solution**: AI-powered PPTX generation from simple prompts with brand consistency  
@@ -40,7 +40,7 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 ---
 
 ### **Industrial IoT Monitoring**
-#### Solar-AI — Intelligent Solar Plant Management System
+#### <img src="https://raw.githubusercontent.com/van007/Solar-AI/3475ff713a68e77fdb66b763f460a60efbf35c5d/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Solar-AI — Intelligent Solar Plant Management System
 
 **Problem Solved**: Reactive maintenance costs solar plants 20-30% in efficiency losses  
 **Solution**: Real-time monitoring with predictive anomaly detection  
@@ -60,7 +60,7 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 ---
 
 ### **Business Process Automation**
-#### QR Code Generator — Enterprise-Grade QR Solutions
+#### <img src="https://raw.githubusercontent.com/van007/QR-Code-Generator/ec97176354243d2e10604ffbaaf94bad051f56df/assets/logo.png" width="24" height="24" style="vertical-align: -4px;"> QR Code Generator — Enterprise-Grade QR Solutions
 
 **Problem Solved**: Marketing and operations teams need quick, branded QR codes for campaigns  
 **Solution**: Professional QR generator with full customization and batch capabilities
