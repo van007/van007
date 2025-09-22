@@ -160,8 +160,36 @@ PostgreSQL, MongoDB, Redis, Elasticsearch
 
 ## <img src="assets/readme-icons/target.svg" width="20" height="20" style="vertical-align: -3px;"> Industries Served
 
-<img src="assets/readme-icons/oilgas.svg" width="20" height="20" style="vertical-align: -3px;"> **Oil & Gas** | <img src="assets/readme-icons/energy.svg" width="20" height="20" style="vertical-align: -3px;"> **Energy & Utilities** | <img src="assets/readme-icons/manufacturing.svg" width="20" height="20" style="vertical-align: -3px;"> **Manufacturing**  
-<img src="assets/readme-icons/healthcare.svg" width="20" height="20" style="vertical-align: -3px;"> **Healthcare** | <img src="assets/readme-icons/financial.svg" width="20" height="20" style="vertical-align: -3px;"> **Financial Services** | <img src="assets/readme-icons/retail.svg" width="20" height="20" style="vertical-align: -3px;"> **Retail & E-commerce**  
+<table>
+<tr>
+<td width="33.33%" align="center">
+<img src="assets/readme-icons/oilgas.svg" width="20" height="20" style="vertical-align: -3px;"><br>
+<b>Oil & Gas</b>
+</td>
+<td width="33.33%" align="center">
+<img src="assets/readme-icons/energy.svg" width="20" height="20" style="vertical-align: -3px;"><br>
+<b>Energy & Utilities</b>
+</td>
+<td width="33.33%" align="center">
+<img src="assets/readme-icons/manufacturing.svg" width="20" height="20" style="vertical-align: -3px;"><br>
+<b>Manufacturing</b>
+</td>
+</tr>
+<tr>
+<td width="33.33%" align="center">
+<img src="assets/readme-icons/healthcare.svg" width="20" height="20" style="vertical-align: -3px;"><br>
+<b>Healthcare</b>
+</td>
+<td width="33.33%" align="center">
+<img src="assets/readme-icons/financial.svg" width="20" height="20" style="vertical-align: -3px;"><br>
+<b>Financial Services</b>
+</td>
+<td width="33.33%" align="center">
+<img src="assets/readme-icons/retail.svg" width="20" height="20" style="vertical-align: -3px;"><br>
+<b>Retail & E-commerce</b>
+</td>
+</tr>
+</table>  
 
 ---
 
