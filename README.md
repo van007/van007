@@ -24,7 +24,7 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 <td width="50%" valign="top">
 
 ### **Enterprise Document Automation**
-#### <img src="https://raw.githubusercontent.com/van007/Prompt2Powerpoint/543b8d271e387f5e77a322603eb088435ceaceca/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Prompt2PowerPoint
+### <img src="https://raw.githubusercontent.com/van007/Prompt2Powerpoint/543b8d271e387f5e77a322603eb088435ceaceca/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Prompt2PowerPoint
 
 **Transform Ideas into Professional Presentations**
 
@@ -47,7 +47,7 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 <td width="50%" valign="top">
 
 ### **Industrial IoT Monitoring**
-#### <img src="https://raw.githubusercontent.com/van007/Solar-AI/3475ff713a68e77fdb66b763f460a60efbf35c5d/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Solar-AI
+### <img src="https://raw.githubusercontent.com/van007/Solar-AI/3475ff713a68e77fdb66b763f460a60efbf35c5d/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Solar-AI
 
 **Intelligent Solar Plant Management System**
 
@@ -72,7 +72,7 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 <td width="50%" valign="top">
 
 ### **Business Process Automation**
-#### <img src="https://raw.githubusercontent.com/van007/QR-Code-Generator/ec97176354243d2e10604ffbaaf94bad051f56df/assets/logo.png" width="24" height="24" style="vertical-align: -4px;"> QR Code Generator
+### <img src="https://raw.githubusercontent.com/van007/QR-Code-Generator/ec97176354243d2e10604ffbaaf94bad051f56df/assets/logo.png" width="24" height="24" style="vertical-align: -4px;"> QR Code Generator
 
 **Enterprise-Grade QR Solutions**
 
