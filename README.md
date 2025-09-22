@@ -94,17 +94,25 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 </td>
 <td width="50%" valign="top">
 
-### **Coming Soon**
-#### <img src="assets/readme-icons/sparkle.svg" width="24" height="24" style="vertical-align: -4px;"> Next Project
+### **Image Management & AI Labeling**
+### <img src="https://raw.githubusercontent.com/van007/QuickTag-Images/main/assets/logo.jpeg" width="24" height="24" style="vertical-align: -4px;"> QuickTag-Images
 
-**Stay tuned for more innovative AI solutions!**
+**Transform Image Collections with Intelligent Organization**
 
-Working on new tools for:
-- Data analytics automation
-- Intelligent document processing
-- Real-time decision support systems
+**Problem**: Unorganized image collections difficult to search
+**Solution**: AI-powered image labeling and metadata management
+**ROI**: Process 10,000+ images with intelligent organization
 
-<img src="assets/readme-icons/bell.svg" width="16" height="16" style="vertical-align: -2px;"> **Follow for updates**
+<img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/QuickTag-Images/" target="_blank" rel="noopener noreferrer">Try Demo</a>** | <a href="https://github.com/van007/QuickTag-Images" target="_blank" rel="noopener noreferrer">Source</a>
+
+**Key Features:**
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Multi-folder processing
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> AI-powered labeling
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Intelligent renaming
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Metadata embedding
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Privacy-first (local AI)
+
+**For**: Photographers, designers, archivists, businesses
 
 </td>
 </tr>
