@@ -170,29 +170,37 @@ PostgreSQL, MongoDB, Redis, Elasticsearch
 
 <table>
 <tr>
-<td width="33.33%" align="center">
+<td width="25%" align="center">
+<img src="assets/readme-icons/education.svg" width="20" height="20" style="vertical-align: -3px;"><br>
+<b>Education</b>
+</td>
+<td width="25%" align="center">
 <img src="assets/readme-icons/oilgas.svg" width="20" height="20" style="vertical-align: -3px;"><br>
 <b>Oil & Gas</b>
 </td>
-<td width="33.33%" align="center">
+<td width="25%" align="center">
 <img src="assets/readme-icons/energy.svg" width="20" height="20" style="vertical-align: -3px;"><br>
 <b>Energy & Utilities</b>
 </td>
-<td width="33.33%" align="center">
+<td width="25%" align="center">
 <img src="assets/readme-icons/manufacturing.svg" width="20" height="20" style="vertical-align: -3px;"><br>
 <b>Manufacturing</b>
 </td>
 </tr>
 <tr>
-<td width="33.33%" align="center">
+<td width="25%" align="center">
+<img src="assets/readme-icons/arts.svg" width="20" height="20" style="vertical-align: -3px;"><br>
+<b>Arts & Culture</b>
+</td>
+<td width="25%" align="center">
 <img src="assets/readme-icons/healthcare.svg" width="20" height="20" style="vertical-align: -3px;"><br>
 <b>Healthcare</b>
 </td>
-<td width="33.33%" align="center">
+<td width="25%" align="center">
 <img src="assets/readme-icons/financial.svg" width="20" height="20" style="vertical-align: -3px;"><br>
 <b>Financial Services</b>
 </td>
-<td width="33.33%" align="center">
+<td width="25%" align="center">
 <img src="assets/readme-icons/retail.svg" width="20" height="20" style="vertical-align: -3px;"><br>
 <b>Retail & E-commerce</b>
 </td>
