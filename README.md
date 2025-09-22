@@ -167,7 +167,7 @@ PostgreSQL, MongoDB, Redis, Elasticsearch
 
 ## <img src="assets/readme-icons/handshake.svg" width="20" height="20" style="vertical-align: -3px;"> Let's Build Your Next AI Solution
 
-Whether you need to:
+Whether you need to:  
 <img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Automate workflows  
 <img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Implement predictive maintenance  
 <img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Build custom AI applications  
