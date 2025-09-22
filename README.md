@@ -114,18 +114,47 @@ Working on new tools for:
 
 ## <img src="assets/readme-icons/lightbulb.svg" width="20" height="20" style="vertical-align: -3px;"> Expertise
 
-### **Custom AI Development**
-<img src="assets/readme-icons/robot.svg" width="16" height="16" style="vertical-align: -2px;"> **LLM Integration**: OpenAI, Anthropic, open-source models  
-<img src="assets/readme-icons/chart.svg" width="16" height="16" style="vertical-align: -2px;"> **Data Pipeline Architecture**: ETL, real-time processing, analytics  
-<img src="assets/readme-icons/factory.svg" width="16" height="16" style="vertical-align: -2px;"> **Industrial IoT**: Sensor integration, predictive maintenance, quality control  
-<img src="assets/readme-icons/trending.svg" width="16" height="16" style="vertical-align: -2px;"> **Business Intelligence**: Dashboards, reporting, KPI automation  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### **Technology Stack**  
-**Frontend**: HTML, JS, Progressive Web Apps  
-**Backend**: Node.js, Python, RESTful APIs  
-**AI/ML**: TensorFlow, PyTorch, Hugging Face  
-**Cloud**: AWS, Azure, Google Cloud, Kubernetes  
-**Data**: PostgreSQL, MongoDB, Redis, Elasticsearch  
+### **Custom AI Development**
+
+<img src="assets/readme-icons/robot.svg" width="16" height="16" style="vertical-align: -2px;"> **LLM Integration**
+OpenAI, Anthropic, open-source models
+
+<img src="assets/readme-icons/chart.svg" width="16" height="16" style="vertical-align: -2px;"> **Data Pipeline Architecture**
+ETL, real-time processing, analytics
+
+<img src="assets/readme-icons/factory.svg" width="16" height="16" style="vertical-align: -2px;"> **Industrial IoT**
+Sensor integration, predictive maintenance, quality control
+
+<img src="assets/readme-icons/trending.svg" width="16" height="16" style="vertical-align: -2px;"> **Business Intelligence**
+Dashboards, reporting, KPI automation
+
+</td>
+<td width="50%" valign="top">
+
+### **Technology Stack**
+
+**Frontend**
+HTML, JavaScript, Progressive Web Apps
+
+**Backend**
+Node.js, Python, RESTful APIs
+
+**AI/ML**
+TensorFlow, PyTorch, Hugging Face
+
+**Cloud**
+AWS, Azure, Google Cloud, Kubernetes
+
+**Data**
+PostgreSQL, MongoDB, Redis, Elasticsearch
+
+</td>
+</tr>
+</table>  
 
 ---
 
