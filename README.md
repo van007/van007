@@ -168,10 +168,10 @@ PostgreSQL, MongoDB, Redis, Elasticsearch
 ## <img src="assets/readme-icons/handshake.svg" width="20" height="20" style="vertical-align: -3px;"> Let's Build Your Next AI Solution
 
 Whether you need to:
-- Automate workflows
-- Implement predictive maintenance
-- Build custom AI applications
-- Modernize legacy systems
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Automate workflows  
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Implement predictive maintenance  
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Build custom AI applications  
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Modernize legacy systems  
 
 ### <img src="assets/readme-icons/envelope.svg" width="18" height="18" style="vertical-align: -3px;"> Quick Contact
 **<img src="assets/readme-icons/linkedin.svg" width="16" height="16" style="vertical-align: -2px;"> LinkedIn**: <a href="https://www.linkedin.com/in/varunnidhi" target="_blank" rel="noopener noreferrer">Varun Nidhi</a>  
