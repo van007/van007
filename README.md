@@ -83,11 +83,11 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 <img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/QR-Code-Generator/" target="_blank" rel="noopener noreferrer">Try Tool</a>** | <a href="https://github.com/van007/QR-Code-Generator" target="_blank" rel="noopener noreferrer">Source</a>
 
 **Key Features:**
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> 9 business formats
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Brand customization
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> High-volume support
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Multiple export formats
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Error correction (L/M/Q/H)
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> 12+ QR types (URL, Email, WiFi, vCard, UPI, AR)
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> 5 module shapes & color customization
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> PWA with offline support
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Multiple exports (PNG, SVG, print, clipboard)
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Dark/Light themes & keyboard shortcuts
 
 **For**: Marketing, events, retail, operations
 
