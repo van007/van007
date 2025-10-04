@@ -23,52 +23,27 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 <tr>
 <td width="50%" valign="top">
 
-### **Enterprise Document Automation**
-### <img src="https://raw.githubusercontent.com/van007/Prompt2Powerpoint/543b8d271e387f5e77a322603eb088435ceaceca/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Prompt2PowerPoint
+### **Privacy-First Browser AI**
+### <img src="https://raw.githubusercontent.com/van007/LLM-on-Web/f85bd7e7d1f40ef4d6c27232e8ac8c10cbcf121f/assets/icons/icon.png" width="24" height="24" style="vertical-align: -4px;"> LLM-on-Web
 
-**Transform Ideas into Professional Presentations**
+**Run AI Models Directly in Your Browser - No Server Required**
 
-**Problem**: Teams waste 2-3 hours per presentation
-**Solution**: AI-powered PPTX generation with brand consistency
-**ROI**: 80% reduction in deck creation time
+**Problem**: Privacy concerns with cloud AI & server dependency
+**Solution**: 100% browser-based AI with RAG capabilities
+**ROI**: Complete privacy with zero server costs
 
-<img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/Prompt2Powerpoint/" target="_blank" rel="noopener noreferrer">Try Demo</a>** | <a href="https://github.com/van007/Prompt2Powerpoint" target="_blank" rel="noopener noreferrer">Source</a>
-
-**Key Features:**
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Multi-deployment (Cloud/On-premise)
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Brand compliance & templates
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Document intelligence (PDFs)
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Stock asset integration
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Zero IT overhead
-
-**For**: Sales, consulting, marketing, executives
-
-</td>
-<td width="50%" valign="top">
-
-### **Industrial IoT Monitoring**
-### <img src="https://raw.githubusercontent.com/van007/Solar-AI/3475ff713a68e77fdb66b763f460a60efbf35c5d/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Solar-AI
-
-**Intelligent Solar Plant Management System**
-
-**Problem**: 20-30% efficiency losses from reactive maintenance
-**Solution**: Real-time monitoring with predictive detection
-**ROI**: 25% increase in operational efficiency
-
-<img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/Solar-AI/" target="_blank" rel="noopener noreferrer">Try Demo</a>** | <a href="https://github.com/van007/Solar-AI" target="_blank" rel="noopener noreferrer">Source</a>
+<img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/LLM-on-Web/" target="_blank" rel="noopener noreferrer">Try Demo</a>** | <a href="https://github.com/van007/LLM-on-Web" target="_blank" rel="noopener noreferrer">Source</a>
 
 **Key Features:**
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Predictive maintenance AI
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Real-time dashboard
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Intelligent alerts
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Historical analytics
-<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> AI assistant integration
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> WebGPU acceleration & offline support
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Document analysis (TXT, MD, PDF, HTML, JSON)
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Text-to-Speech with streaming
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Installable PWA
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Data never leaves your device
 
-**For**: Energy operators, facility managers
+**For**: Privacy-conscious users, developers, researchers
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### **Business Process Automation**
@@ -92,6 +67,31 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 **For**: Marketing, events, retail, operations
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### **Enterprise Document Automation**
+### <img src="https://raw.githubusercontent.com/van007/Prompt2Powerpoint/543b8d271e387f5e77a322603eb088435ceaceca/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Prompt2PowerPoint
+
+**Transform Ideas into Professional Presentations**
+
+**Problem**: Teams waste 2-3 hours per presentation
+**Solution**: AI-powered PPTX generation with brand consistency
+**ROI**: 80% reduction in deck creation time
+
+<img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/Prompt2Powerpoint/" target="_blank" rel="noopener noreferrer">Try Demo</a>** | <a href="https://github.com/van007/Prompt2Powerpoint" target="_blank" rel="noopener noreferrer">Source</a>
+
+**Key Features:**
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Multi-deployment (Cloud/On-premise)
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Brand compliance & templates
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Document intelligence (PDFs)
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Stock asset integration
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Zero IT overhead
+
+**For**: Sales, consulting, marketing, executives
+
+</td>
 <td width="50%" valign="top">
 
 ### **Image Management & AI Labeling**
@@ -113,6 +113,34 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 <img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Privacy-first (local AI)
 
 **For**: Photographers, designers, archivists, businesses
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### **Industrial IoT Monitoring**
+### <img src="https://raw.githubusercontent.com/van007/Solar-AI/3475ff713a68e77fdb66b763f460a60efbf35c5d/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Solar-AI
+
+**Intelligent Solar Plant Management System**
+
+**Problem**: 20-30% efficiency losses from reactive maintenance
+**Solution**: Real-time monitoring with predictive detection
+**ROI**: 25% increase in operational efficiency
+
+<img src="assets/readme-icons/link.svg" width="16" height="16" style="vertical-align: -2px;"> **<a href="https://van007.github.io/Solar-AI/" target="_blank" rel="noopener noreferrer">Try Demo</a>** | <a href="https://github.com/van007/Solar-AI" target="_blank" rel="noopener noreferrer">Source</a>
+
+**Key Features:**
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Predictive maintenance AI
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Real-time dashboard
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Intelligent alerts
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> Historical analytics
+<img src="assets/readme-icons/check.svg" width="14" height="14" style="vertical-align: -2px;"> AI assistant integration
+
+**For**: Energy operators, facility managers
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
