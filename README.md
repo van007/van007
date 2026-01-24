@@ -156,10 +156,26 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 
 ## <img src="assets/readme-icons/lightbulb.svg" width="20" height="20" style="vertical-align: -3px;"> Expertise
 
-<img src="assets/readme-icons/robot.svg" width="16" height="16" style="vertical-align: -2px;"> **LLM Integration**: OpenAI, Anthropic, open-source models
-<img src="assets/readme-icons/chart.svg" width="16" height="16" style="vertical-align: -2px;"> **Data Pipeline Architecture**: ETL, real-time processing, analytics
-<img src="assets/readme-icons/factory.svg" width="16" height="16" style="vertical-align: -2px;"> **Industrial IoT**: Sensor integration, predictive maintenance, quality control
-<img src="assets/readme-icons/trending.svg" width="16" height="16" style="vertical-align: -2px;"> **Business Intelligence**: Dashboards, reporting, KPI automation  
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="assets/readme-icons/robot.svg" width="32" height="32"><br>
+<b>LLM Integration</b>
+</td>
+<td width="25%" align="center">
+<img src="assets/readme-icons/chart.svg" width="32" height="32"><br>
+<b>Data Pipelines</b>
+</td>
+<td width="25%" align="center">
+<img src="assets/readme-icons/factory.svg" width="32" height="32"><br>
+<b>Industrial IoT</b>
+</td>
+<td width="25%" align="center">
+<img src="assets/readme-icons/trending.svg" width="32" height="32"><br>
+<b>Business Intelligence</b>
+</td>
+</tr>
+</table>
 
 ---
 
