@@ -2,7 +2,7 @@
 
 ## <img src="assets/readme-icons/target.svg" width="20" height="20" style="vertical-align: -3px;"> Delivering Production-Ready AI Solutions for Enterprise
 
-Transform your business with **privacy-first, scalable AI applications**. Specializing in industrial automation, and intelligent monitoring systems.
+Transform your business with **privacy-first, scalable AI applications**.
 
 **<img src="assets/readme-icons/linkedin.svg" width="18" height="18" style="vertical-align: -3px;"> <a href="https://www.linkedin.com/in/varunnidhi" target="_blank" rel="noopener noreferrer">LinkedIn</a>**
 
@@ -10,10 +10,16 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 
 ## <img src="assets/readme-icons/sparkle.svg" width="20" height="20" style="vertical-align: -3px;"> Why Work With Me
 
-**<img src="assets/readme-icons/factory.svg" width="16" height="16" style="vertical-align: -2px;"> Industrial AI Expertise**: Proven track record implementing AI solutions for manufacturing and energy sectors  
-**<img src="assets/readme-icons/lock.svg" width="16" height="16" style="vertical-align: -2px;"> Privacy-First Architecture**: All solutions support on-premise deployment and data sovereignty  
-**<img src="assets/readme-icons/lightning.svg" width="16" height="16" style="vertical-align: -2px;"> Rapid Deployment**: From concept to production in weeks, not months  
-**<img src="assets/readme-icons/dollar.svg" width="16" height="16" style="vertical-align: -2px;"> Cost-Effective**: Flexible deployment options (cloud/local) to optimize your TCO  
+**<img src="assets/readme-icons/factory.svg" width="16" height="16" style="vertical-align: -2px;"> Industrial AI Expertise**: Proven track record implementing AI solutions for manufacturing and energy sectors
+**<img src="assets/readme-icons/lock.svg" width="16" height="16" style="vertical-align: -2px;"> Privacy-First Architecture**: All solutions support on-premise deployment and data sovereignty
+**<img src="assets/readme-icons/lightning.svg" width="16" height="16" style="vertical-align: -2px;"> Rapid Deployment**: From concept to production in weeks, not months
+**<img src="assets/readme-icons/dollar.svg" width="16" height="16" style="vertical-align: -2px;"> Cost-Effective**: Flexible deployment options (cloud/local) to optimize your TCO
+
+---
+
+## <img src="assets/readme-icons/code.svg" width="20" height="20" style="vertical-align: -3px;"> Technology Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Transformers.js](https://img.shields.io/badge/Transformers.js-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![WebGPU](https://img.shields.io/badge/WebGPU-005A9C?style=for-the-badge&logo=w3c&logoColor=white) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![WASM](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=for-the-badge&logo=oauth&logoColor=white) ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white) ![Chroma](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ---
 
@@ -150,90 +156,13 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 
 ## <img src="assets/readme-icons/lightbulb.svg" width="20" height="20" style="vertical-align: -3px;"> Expertise
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### **Custom AI Development**
-
-<img src="assets/readme-icons/robot.svg" width="16" height="16" style="vertical-align: -2px;"> **LLM Integration**
-OpenAI, Anthropic, open-source models
-
-<img src="assets/readme-icons/chart.svg" width="16" height="16" style="vertical-align: -2px;"> **Data Pipeline Architecture**
-ETL, real-time processing, analytics
-
-<img src="assets/readme-icons/factory.svg" width="16" height="16" style="vertical-align: -2px;"> **Industrial IoT**
-Sensor integration, predictive maintenance, quality control
-
-<img src="assets/readme-icons/trending.svg" width="16" height="16" style="vertical-align: -2px;"> **Business Intelligence**
-Dashboards, reporting, KPI automation
-
-</td>
-<td width="50%" valign="top">
-
-### **Technology Stack**
-
-**Frontend**
-HTML, JavaScript, Progressive Web Apps
-
-**Backend**
-Node.js, Python, RESTful APIs
-
-**AI/ML**
-TensorFlow, PyTorch, Hugging Face
-
-**Cloud**
-AWS, Azure, Google Cloud, Kubernetes
-
-**Data**
-PostgreSQL, MongoDB, Redis, Elasticsearch
-
-</td>
-</tr>
-</table>  
+<img src="assets/readme-icons/robot.svg" width="24" height="24" style="vertical-align: -6px;"> **LLM Integration** &nbsp;&nbsp; <img src="assets/readme-icons/chart.svg" width="24" height="24" style="vertical-align: -6px;"> **Data Pipelines** &nbsp;&nbsp; <img src="assets/readme-icons/factory.svg" width="24" height="24" style="vertical-align: -6px;"> **Industrial IoT** &nbsp;&nbsp; <img src="assets/readme-icons/trending.svg" width="24" height="24" style="vertical-align: -6px;"> **Business Intelligence**
 
 ---
 
 ## <img src="assets/readme-icons/target.svg" width="20" height="20" style="vertical-align: -3px;"> Industries Served
 
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="assets/readme-icons/oilgas.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Oil & Gas</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/energy.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Energy & Utilities</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/manufacturing.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Manufacturing</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/education.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Education</b>
-</td>
-</tr>
-<tr>
-<td width="25%" align="center">
-<img src="assets/readme-icons/healthcare.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Healthcare</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/financial.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Financial Services</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/retail.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Retail & E-commerce</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/arts.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Arts & Culture</b>
-</td>
-</tr>
-</table>  
+<img src="assets/readme-icons/oilgas.svg" width="20" height="20" style="vertical-align: -4px;"> **Oil & Gas** &nbsp;&nbsp; <img src="assets/readme-icons/energy.svg" width="20" height="20" style="vertical-align: -4px;"> **Energy & Utilities** &nbsp;&nbsp; <img src="assets/readme-icons/manufacturing.svg" width="20" height="20" style="vertical-align: -4px;"> **Manufacturing** &nbsp;&nbsp; <img src="assets/readme-icons/education.svg" width="20" height="20" style="vertical-align: -4px;"> **Education** &nbsp;&nbsp; <img src="assets/readme-icons/healthcare.svg" width="20" height="20" style="vertical-align: -4px;"> **Healthcare** &nbsp;&nbsp; <img src="assets/readme-icons/financial.svg" width="20" height="20" style="vertical-align: -4px;"> **Financial Services** &nbsp;&nbsp; <img src="assets/readme-icons/retail.svg" width="20" height="20" style="vertical-align: -4px;"> **Retail & E-commerce** &nbsp;&nbsp; <img src="assets/readme-icons/arts.svg" width="20" height="20" style="vertical-align: -4px;"> **Arts & Culture**  
 
 ---
 

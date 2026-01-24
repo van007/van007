@@ -121,3 +121,4 @@ backup/
 # Documentation build
 docs/_build/
 site/
+assets/tech-icons/tech-icons.md
