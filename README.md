@@ -156,69 +156,13 @@ Transform your business with **privacy-first, scalable AI applications**. Specia
 
 ## <img src="assets/readme-icons/lightbulb.svg" width="20" height="20" style="vertical-align: -3px;"> Expertise
 
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="assets/readme-icons/robot.svg" width="32" height="32"><br>
-<b>LLM Integration</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/chart.svg" width="32" height="32"><br>
-<b>Data Pipelines</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/factory.svg" width="32" height="32"><br>
-<b>Industrial IoT</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/trending.svg" width="32" height="32"><br>
-<b>Business Intelligence</b>
-</td>
-</tr>
-</table>
+<img src="assets/readme-icons/robot.svg" width="24" height="24" style="vertical-align: -6px;"> **LLM Integration** &nbsp;&nbsp; <img src="assets/readme-icons/chart.svg" width="24" height="24" style="vertical-align: -6px;"> **Data Pipelines** &nbsp;&nbsp; <img src="assets/readme-icons/factory.svg" width="24" height="24" style="vertical-align: -6px;"> **Industrial IoT** &nbsp;&nbsp; <img src="assets/readme-icons/trending.svg" width="24" height="24" style="vertical-align: -6px;"> **Business Intelligence**
 
 ---
 
 ## <img src="assets/readme-icons/target.svg" width="20" height="20" style="vertical-align: -3px;"> Industries Served
 
-<table>
-<tr>
-<td width="25%" align="center">
-<img src="assets/readme-icons/oilgas.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Oil & Gas</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/energy.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Energy & Utilities</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/manufacturing.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Manufacturing</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/education.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Education</b>
-</td>
-</tr>
-<tr>
-<td width="25%" align="center">
-<img src="assets/readme-icons/healthcare.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Healthcare</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/financial.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Financial Services</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/retail.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Retail & E-commerce</b>
-</td>
-<td width="25%" align="center">
-<img src="assets/readme-icons/arts.svg" width="20" height="20" style="vertical-align: -3px;"><br>
-<b>Arts & Culture</b>
-</td>
-</tr>
-</table>  
+<img src="assets/readme-icons/oilgas.svg" width="20" height="20" style="vertical-align: -4px;"> **Oil & Gas** &nbsp;&nbsp; <img src="assets/readme-icons/energy.svg" width="20" height="20" style="vertical-align: -4px;"> **Energy & Utilities** &nbsp;&nbsp; <img src="assets/readme-icons/manufacturing.svg" width="20" height="20" style="vertical-align: -4px;"> **Manufacturing** &nbsp;&nbsp; <img src="assets/readme-icons/education.svg" width="20" height="20" style="vertical-align: -4px;"> **Education** &nbsp;&nbsp; <img src="assets/readme-icons/healthcare.svg" width="20" height="20" style="vertical-align: -4px;"> **Healthcare** &nbsp;&nbsp; <img src="assets/readme-icons/financial.svg" width="20" height="20" style="vertical-align: -4px;"> **Financial Services** &nbsp;&nbsp; <img src="assets/readme-icons/retail.svg" width="20" height="20" style="vertical-align: -4px;"> **Retail & E-commerce** &nbsp;&nbsp; <img src="assets/readme-icons/arts.svg" width="20" height="20" style="vertical-align: -4px;"> **Arts & Culture**  
 
 ---
 
