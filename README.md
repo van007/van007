@@ -2,7 +2,7 @@
 
 ## <img src="assets/readme-icons/target.svg" width="20" height="20" style="vertical-align: -3px;"> Delivering Production-Ready AI Solutions for Enterprise
 
-Transform your business with **privacy-first, scalable AI applications**. Specializing in industrial automation, and intelligent monitoring systems.
+Transform your business with **privacy-first, scalable AI applications**.
 
 **<img src="assets/readme-icons/linkedin.svg" width="18" height="18" style="vertical-align: -3px;"> <a href="https://www.linkedin.com/in/varunnidhi" target="_blank" rel="noopener noreferrer">LinkedIn</a>**
 
