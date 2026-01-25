@@ -10,7 +10,7 @@ Transform your business with **privacy-first, scalable AI applications**.
 
 ## <img src="assets/readme-icons/sparkle.svg" width="20" height="20" style="vertical-align: -3px;"> Why Work With Me
 
-**<img src="assets/readme-icons/factory.svg" width="16" height="16" style="vertical-align: -2px;"> Industrial AI Expertise**: Proven track record implementing AI solutions for manufacturing and energy sectors
+**<img src="assets/readme-icons/factory.svg" width="16" height="16" style="vertical-align: -2px;"> Industrial AI Expertise**: Proven track record implementing AI solutions
 **<img src="assets/readme-icons/lock.svg" width="16" height="16" style="vertical-align: -2px;"> Privacy-First Architecture**: All solutions support on-premise deployment and data sovereignty
 **<img src="assets/readme-icons/lightning.svg" width="16" height="16" style="vertical-align: -2px;"> Rapid Deployment**: From concept to production in weeks, not months
 **<img src="assets/readme-icons/dollar.svg" width="16" height="16" style="vertical-align: -2px;"> Cost-Effective**: Flexible deployment options (cloud/local) to optimize your TCO
