@@ -10,31 +10,26 @@ A model that works in a demo and a model that works in a live operation are not 
 
 ## Things I've Built
 
-> [!NOTE]
 > ### Pipeline Operations Console
 > `Oil & Gas` · `LLM`
 >
 > An AI console that helps teams reason over pipeline inspection and operations data — and turn it into action in one click.
 
-> [!NOTE]
 > ### Crude Trade Copilot
 > `Oil & Gas` · `LLM`
 >
 > A copilot for crude trading — read an assay (its specifications), work out the blend, predict the yield, all from a plain-language prompt.
 
-> [!NOTE]
 > ### Process Digital Twins
 > `Oil & Gas` · `Simulation`
 >
 > Working digital models of oil & gas pipelines — used to simulate behavior and check metering before it matters in the field.
 
-> [!NOTE]
 > ### Field Mobility Apps
 > `Field Operations` · `Mobile`
 >
 > Mobile apps that carry multimodal field data — photos, notes, audio, video — back to a central server.
 
-> [!NOTE]
 > ### Smart Education Apps
 > `Education` · `Mobile + AR`
 >
@@ -44,19 +39,16 @@ A model that works in a demo and a model that works in a live operation are not 
 
 ## Open Source
 
-> [!TIP]
 > ### <img src="https://raw.githubusercontent.com/van007/LLM-on-Web/f85bd7e7d1f40ef4d6c27232e8ac8c10cbcf121f/assets/icons/icon.png" width="24" height="24" style="vertical-align: -4px;"> LLM-on-Web
 > [![Try Demo](https://img.shields.io/badge/Try-Demo-28a745?style=for-the-badge)](https://van007.github.io/LLM-on-Web/) [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/van007/LLM-on-Web)
 >
 > An AI chat app that runs language models entirely in your browser — no server, no sign-up — with document Q&A built in.
 
-> [!TIP]
 > ### <img src="https://raw.githubusercontent.com/van007/Prompt2Powerpoint/543b8d271e387f5e77a322603eb088435ceaceca/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Prompt2Powerpoint
 > [![Try Demo](https://img.shields.io/badge/Try-Demo-28a745?style=for-the-badge)](https://van007.github.io/Prompt2Powerpoint/) [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/van007/Prompt2Powerpoint)
 >
 > Turn a plain-language prompt into a finished PowerPoint deck, working with either a local model or a cloud API.
 
-> [!TIP]
 > ### <img src="https://raw.githubusercontent.com/van007/QuickTag-Images/main/assets/logo.jpeg" width="24" height="24" style="vertical-align: -4px;"> QuickTag-Images
 > [![Try Demo](https://img.shields.io/badge/Try-Demo-28a745?style=for-the-badge)](https://van007.github.io/QuickTag-Images/) [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/van007/QuickTag-Images)
 >
