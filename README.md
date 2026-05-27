@@ -39,11 +39,9 @@ Mobile apps that connect printed textbooks to digital learning — point a phone
 
 ## Open Source
 
-### <img src="https://raw.githubusercontent.com/van007/LLM-on-Web/f85bd7e7d1f40ef4d6c27232e8ac8c10cbcf121f/assets/icons/icon.png" width="24" height="24" style="vertical-align: -4px;"> LLM-on-Web
+<a href="https://github.com/van007/LLM-on-Web"><img src="assets/cards/llm-on-web-light.svg" alt="LLM-on-Web — An AI chat app that runs language models entirely in your browser, no server, no sign-up, with document Q&A built in." width="720"></a>
 
 [![Try Demo](https://img.shields.io/badge/Try-Demo-28a745?style=for-the-badge)](https://van007.github.io/LLM-on-Web/) [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github)](https://github.com/van007/LLM-on-Web)
-
-An AI chat app that runs language models entirely in your browser — no server, no sign-up — with document Q&A built in.
 
 ### <img src="https://raw.githubusercontent.com/van007/Prompt2Powerpoint/543b8d271e387f5e77a322603eb088435ceaceca/assets/icon.png" width="24" height="24" style="vertical-align: -4px;"> Prompt2Powerpoint
 
