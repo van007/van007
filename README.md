@@ -6,6 +6,8 @@ I work on the hard end of real operations — anywhere the data is incomplete, t
 
 A model that works in a demo and a model that works in a live operation are not the same thing. I build for the side that holds up in the real world — the unglamorous work of turning a promising model into something people open every morning and trust.
 
+[![varunnidhi.com](https://img.shields.io/badge/varunnidhi.com-000000?style=for-the-badge)](https://varunnidhi.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunnidhi) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/van007)
+
 ---
 
 ## Things I've Built
@@ -59,5 +61,3 @@ A model that works in a demo and a model that works in a live operation are not 
 ## Contact
 
 Have a problem worth solving? Let's talk. Tell me what you're working on — or just say hello.
-
-[varunnidhi.com](https://varunnidhi.com) · [LinkedIn](https://www.linkedin.com/in/varunnidhi) · [GitHub](https://github.com/van007)
